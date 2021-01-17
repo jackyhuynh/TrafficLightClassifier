@@ -61,19 +61,13 @@ Explain how to run the automated tests for this system:
 - Using Jupiter Notebook
 - Navigate to the file .ipynb
 - hit:
-
 ```
 Ctrl + Enter
 ```
-- The notebook will execute in Markdown form and include the visualization of the map.
-
-![alt](https://github.com/jackyhuynh/Route-Planner/blob/main/src/picture/map.PNG)
-
-- The program was working perfectly fine when I code it in the Udacity.com workspace. You may try it [here](https://classroom.udacity.com/nanodegrees/nd113/parts/ff875ac7-e7c7-40ec-8a79-8fce37d93bb2/modules/e3ba7f5e-56e5-4a40-9b21-0f7a130d3074/lessons/b1e11f40-418c-4292-af6f-56ac2603e868/concepts/498d1011-019d-4768-bd46-f476b68c2c4b) if you are member of Udacity. 
 
 ## Deployment
 
-Route PLanner class can be deploy and ready to work with any sensor, or moving robotic prediction. Idea for localization and/or GPS application. This is actually what we use for driving direction everyday. According to Sebastian, this technology have been around for 15 years, and still helping human each day.
+Can be deploy and ready to work with any sensor, selfdriving car or moving robotic prediction. Idea for localization and/or GPS application. 
 Please refer to my notebook for a better understanding of implementation.
 
 ## Built With
@@ -102,5 +96,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Udacity.com for design an outstanding program for Students.
+* Udacity.com for design outstanding programs for Students.
 
