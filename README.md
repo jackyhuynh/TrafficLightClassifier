@@ -3,7 +3,7 @@
 ## Introduction
  Traffic Light Classifier use computer vision techniques to build a classifier for images of traffic lights! The given dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
-![Img](https://github.com/jackyhuynh/Traffic_Light_Classifier/blob/main/images/all-lights.png)
+<img src="https://github.com/jackyhuynh/Traffic_Light_Classifier/blob/main/images/all-lights.png" width="600" height="300" margin-left:auto margin-right:auto>
 
 ## Classification Steps
 In the provided notebook, you'll pre-process these images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
