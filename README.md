@@ -25,4 +25,8 @@ In the provided notebook, we'll pre-process these images, extract features that 
 
 5. Evaluate the model. To pass this project, the classifier must be >90% accurate and never classify any red lights as green; it's likely that we'll need to improve the accuracy of the classifier by changing existing features or adding new features. Try to get as close to 100% accuracy as possible!
 
-Next, read through the instructions and get ready to build a classifier!
+## Helper functions and testing
+Also included are some additional Python files: helpers.py and test_functions.py
+
+These provide helper functions (that load in data) and test functions that will let you test your code as you go! You do not need to change these files, but you may add to them if you want. It is especially encouraged to look at the test functions and see how they evaluate your code.
+
