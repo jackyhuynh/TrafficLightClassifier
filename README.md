@@ -32,10 +32,8 @@ These provide helper functions (that load in data) and test functions that will 
 
 ## Technology
 - Python 
-- Object Oriented Design
 - Jupyter Notebook
 - Data Visualization
-- Localization
 - Algorithms
 - Open CV
 - Machine Learning
