@@ -3,6 +3,8 @@
 ## Introduction
  Traffic Light Classifier use computer vision techniques to build a classifier for images of traffic lights! The given dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
+![Img](https://github.com/jackyhuynh/Traffic_Light_Classifier/tree/main/images/all-lights.png)
+
 ## Classification Steps
 In the provided notebook, you'll pre-process these images, extract features that will help distinguish the different types of images, and use those features to classify the traffic light images into three categories: red, yellow, or green. The tasks will be broken down into a few sections:
 
@@ -10,12 +12,12 @@ In the provided notebook, you'll pre-process these images, extract features that
 
 2. Pre-processing. The input images and output labels need to be standardized; that is, all the input should be of the same type of data and of the same size, and the output should be a numerical label. This way, you can analyze all the input images using the same procedures, and you know what output to expect when you eventually classify a new image.
 
-
+![Img](https://github.com/jackyhuynh/Traffic_Light_Classifier/tree/main/images/processing-steps.png)
 Pre-processed, standardized images
 
 3. Feature extraction. Next, you'll extract some features from each image that will be used to distinguish and classify these images. This is where you have a lot of creativity; features should be 1D vectors or even single values that provide some information about an image that can help classify it as a red, yellow, or green traffic light.
 
-
+![Img](https://github.com/jackyhuynh/Traffic_Light_Classifier/tree/main/images/feature-ext-steps.png)
 An example of feature extraction steps
 
 4. Classification and visualizing error. Finally, you'll write one function that uses your features to classify any traffic light image. This function will take in an image and output a label. You'll also be given code to classify a test set of data, compare your predicted label with the true label, and determine the accuracy of your classification model.
