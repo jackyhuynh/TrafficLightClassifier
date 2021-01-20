@@ -75,7 +75,7 @@ Please refer to my notebook for a better understanding of implementation.
 ## Built With
 
 * [Jupyter Notebook](https://jupyter.org/try) 
-
+* [OpenCV](https://opencv.org/)-To run this application we need Open CV installed in the local machine or using anacoda to install Open CV
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
