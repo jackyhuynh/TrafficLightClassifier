@@ -1,7 +1,7 @@
 # Traffic_Light_Classifier
 
 ## Introduction
- Traffic Light Classifier use computer vision techniques to build a classifier for images of traffic lights! The given dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
+The Traffic Light Classifiers use computer vision techniques to build a classifier for images of traffic lights! The given dataset of traffic light images in which one of three lights is illuminated: red, yellow, or green.
 
 <div style="text-align:center">
 <img src="https://github.com/jackyhuynh/Traffic_Light_Classifier/blob/main/images/all-lights.png" width="800" height="300"></div>
